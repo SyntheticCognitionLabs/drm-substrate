@@ -1,0 +1,222 @@
+{
+  "anger": {
+    "word": "exasperation",
+    "cosine_to_lure": 0.6774234175682068
+  },
+  "army": {
+    "word": "corps",
+    "cosine_to_lure": 0.6911022663116455
+  },
+  "beautiful": {
+    "word": "wonderful",
+    "cosine_to_lure": 0.6806036829948425
+  },
+  "bitter": {
+    "word": "unpleasant",
+    "cosine_to_lure": 0.43576106429100037
+  },
+  "black": {
+    "word": "negro",
+    "cosine_to_lure": 0.6369051933288574
+  },
+  "bread": {
+    "word": "biscuits",
+    "cosine_to_lure": 0.6371756792068481
+  },
+  "butterfly": {
+    "word": "psithyrus",
+    "cosine_to_lure": 0.48293405771255493
+  },
+  "cabbage": {
+    "word": "potatoes",
+    "cosine_to_lure": 0.6669360995292664
+  },
+  "car": {
+    "word": "automotive",
+    "cosine_to_lure": 0.6654398441314697
+  },
+  "carpet": {
+    "word": "mat",
+    "cosine_to_lure": 0.5745532512664795
+  },
+  "chair": {
+    "word": "divan",
+    "cosine_to_lure": 0.5440367460250854
+  },
+  "citizen": {
+    "word": "civic",
+    "cosine_to_lure": 0.5174539089202881
+  },
+  "city": {
+    "word": "downtown",
+    "cosine_to_lure": 0.6700973510742188
+  },
+  "cold": {
+    "word": "refrigerated",
+    "cosine_to_lure": 0.6082742214202881
+  },
+  "command": {
+    "word": "lieutenant",
+    "cosine_to_lure": 0.44925186038017273
+  },
+  "cottage": {
+    "word": "lodge",
+    "cosine_to_lure": 0.5912110805511475
+  },
+  "cup": {
+    "word": "jug",
+    "cosine_to_lure": 0.502078652381897
+  },
+  "doctor": {
+    "word": "medical",
+    "cosine_to_lure": 0.6411577463150024
+  },
+  "flag": {
+    "word": "pennant",
+    "cosine_to_lure": 0.5707806348800659
+  },
+  "foot": {
+    "word": "heel",
+    "cosine_to_lure": 0.5794719457626343
+  },
+  "fruit": {
+    "word": "grapes",
+    "cosine_to_lure": 0.6221092343330383
+  },
+  "girl": {
+    "word": "lad",
+    "cosine_to_lure": 0.5948635339736938
+  },
+  "health": {
+    "word": "welfare",
+    "cosine_to_lure": 0.5379565954208374
+  },
+  "high": {
+    "word": "lofty",
+    "cosine_to_lure": 0.5603315234184265
+  },
+  "justice": {
+    "word": "judicial",
+    "cosine_to_lure": 0.6559602618217468
+  },
+  "king": {
+    "word": "princess",
+    "cosine_to_lure": 0.586581826210022
+  },
+  "lamp": {
+    "word": "lantern",
+    "cosine_to_lure": 0.6797562837600708
+  },
+  "lion": {
+    "word": "leo",
+    "cosine_to_lure": 0.638870358467102
+  },
+  "long": {
+    "word": "length",
+    "cosine_to_lure": 0.6033114790916443
+  },
+  "man": {
+    "word": "guy",
+    "cosine_to_lure": 0.6116522550582886
+  },
+  "mountain": {
+    "word": "slopes",
+    "cosine_to_lure": 0.6561404466629028
+  },
+  "music": {
+    "word": "tunes",
+    "cosine_to_lure": 0.6886372566223145
+  },
+  "mutton": {
+    "word": "chicken",
+    "cosine_to_lure": 0.4982747435569763
+  },
+  "needle": {
+    "word": "yarn",
+    "cosine_to_lure": 0.37983381748199463
+  },
+  "pen": {
+    "word": "pad",
+    "cosine_to_lure": 0.47170889377593994
+  },
+  "river": {
+    "word": "downstream",
+    "cosine_to_lure": 0.5942767262458801
+  },
+  "rough": {
+    "word": "brutal",
+    "cosine_to_lure": 0.4526851773262024
+  },
+  "rubber": {
+    "word": "urethane",
+    "cosine_to_lure": 0.5286341905593872
+  },
+  "shirt": {
+    "word": "slacks",
+    "cosine_to_lure": 0.6718350648880005
+  },
+  "sleep": {
+    "word": "awoke",
+    "cosine_to_lure": 0.5359706878662109
+  },
+  "slow": {
+    "word": "faster",
+    "cosine_to_lure": 0.5582221746444702
+  },
+  "smell": {
+    "word": "sniffed",
+    "cosine_to_lure": 0.6383516788482666
+  },
+  "smoke": {
+    "word": "smoky",
+    "cosine_to_lure": 0.6920090913772583
+  },
+  "soft": {
+    "word": "gentle",
+    "cosine_to_lure": 0.5863493084907532
+  },
+  "spider": {
+    "word": "ants",
+    "cosine_to_lure": 0.40384966135025024
+  },
+  "stove": {
+    "word": "hibachi",
+    "cosine_to_lure": 0.589654803276062
+  },
+  "sweet": {
+    "word": "delightful",
+    "cosine_to_lure": 0.47566425800323486
+  },
+  "swift": {
+    "word": "speedy",
+    "cosine_to_lure": 0.6767706871032715
+  },
+  "thief": {
+    "word": "theft",
+    "cosine_to_lure": 0.6740180850028992
+  },
+  "trash": {
+    "word": "discarded",
+    "cosine_to_lure": 0.5848876237869263
+  },
+  "trouble": {
+    "word": "bother",
+    "cosine_to_lure": 0.5790956020355225
+  },
+  "whiskey": {
+    "word": "brandy",
+    "cosine_to_lure": 0.6611488461494446
+  },
+  "whistle": {
+    "word": "trumpet",
+    "cosine_to_lure": 0.4833042621612549
+  },
+  "window": {
+    "word": "doorway",
+    "cosine_to_lure": 0.574439525604248
+  },
+  "wish": {
+    "word": "intend",
+    "cosine_to_lure": 0.5230278968811035
+  }
+}

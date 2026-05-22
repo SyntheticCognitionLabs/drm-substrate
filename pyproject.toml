@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "drm-substrate"
+version = "0.1.0"
+description = "Non-parametric memory substrate that reproduces the canonical DRM false-memory paradigm. Companion code to the manuscript under review at Open Mind."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Anonymous for double-blind review" }
+]
+dependencies = [
+    "numpy>=1.23",
+    "matplotlib>=3.6",
+    "nltk>=3.8",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+]
+
+[tool.setuptools.packages.find]
+include = ["cgm*", "drm_paper*"]
+exclude = ["drm_paper.tests*"]

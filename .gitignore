@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# External data (regenerable via download instructions in README)
+drm_paper/data/numberbatch-*.txt.gz
+drm_paper/data/numberbatch-*.h5
+drm_paper/data/nelson_norms_raw.txt
+drm_paper/data/nelson_norms.json
+
+# Cached experiment results (regenerable via the runners)
+drm_paper/results/*.pickle
+drm_paper/results/*.json
+
+# OS noise
+.DS_Store
+Thumbs.db
